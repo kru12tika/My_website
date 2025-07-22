@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #f0fff4;
+  padding: 20px;
+}
+nav a {
+  margin-right: 10px;
+  color: green;
+  text-decoration: none;
+}
+form input, form button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  width: 300px;
+}
